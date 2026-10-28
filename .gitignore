@@ -33,3 +33,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Eclipse
+.settings/org.eclipse.buildship.core.prefs
+
